@@ -1,0 +1,60 @@
+{
+  "student": [
+    {
+      "id": 101,
+      "password": "Pavan123",
+      "name": "pavan",
+      "address": "Ongole",
+      "age": 22,
+      "company": "CTS"
+    },
+    {
+      "id": 102,
+      "password": "Aravind123",
+      "name": "Aravind",
+      "address": "Nellore",
+      "age": 22,
+      "company": "Wipro"
+    },
+    {
+      "id": 103,
+      "password": "paritosh123",
+      "name": "paritosh",
+      "address": "Bangalore",
+      "age": 22,
+      "company": "TCS"
+    },
+    {
+      "id": 104,
+      "password": "sai123",
+      "name": "Sai Ganesh",
+      "address": "Guntur",
+      "age": 21,
+      "company": "IBM"
+    },
+    {
+      "id": 105,
+      "password": "harsha",
+      "name": "harsha",
+      "address": "Anantapur",
+      "age": 20,
+      "company": "HCL"
+    },
+    {
+      "id": "106",
+      "password": "hanumanutha",
+      "name": "harshavardhan",
+      "address": "chennai",
+      "age": 21,
+      "company": "TCS"
+    },
+    {
+      "id": "107",
+      "password": "Dhana123",
+      "name": "Dhana",
+      "address": "Ongole",
+      "age": 22,
+      "company": "Microsoft"
+    }
+  ]
+}
